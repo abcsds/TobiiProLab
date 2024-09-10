@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Author i:nil="true" />
+  <CreationDate>2024-09-10T12:09:56.7606939-06:00</CreationDate>
+  <DatabaseVersionNumber>6</DatabaseVersionNumber>
+  <Description i:nil="true" />
+  <LastSaveDate>2024-09-10T12:10:00.2522143-06:00</LastSaveDate>
+  <LatestBreakingMigration>8C48EACF-E220-44B2-AD36-44EE016149A2</LatestBreakingMigration>
+  <Name>ANT</Name>
+  <ProjectId>f4af24c9-7321-4405-b8b4-0faf2d5282eb</ProjectId>
+  <Properties xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d1p1:KeyValueOfstringstring>
+      <d1p1:Key>ProjectType</d1p1:Key>
+      <d1p1:Value>ScreenBased</d1p1:Value>
+    </d1p1:KeyValueOfstringstring>
+    <d1p1:KeyValueOfstringstring>
+      <d1p1:Key>CreationMethod</d1p1:Key>
+      <d1p1:Value>Manual</d1p1:Value>
+    </d1p1:KeyValueOfstringstring>
+    <d1p1:KeyValueOfstringstring>
+      <d1p1:Key>CreatedInVersion</d1p1:Key>
+      <d1p1:Value>1.241.54542</d1p1:Value>
+    </d1p1:KeyValueOfstringstring>
+    <d1p1:KeyValueOfstringstring>
+      <d1p1:Key>LastSavedInVersion</d1p1:Key>
+      <d1p1:Value>1.241.54542</d1p1:Value>
+    </d1p1:KeyValueOfstringstring>
+  </Properties>
+  <Version>8C48EACF-E220-44B2-AD36-44EE016149A2</Version>
+</ProjectInfo>
